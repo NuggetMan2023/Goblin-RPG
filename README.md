@@ -1,4 +1,4 @@
-# Goblin-RPG
+#Goblin-RPG
 
 Read this before playing/editing!
 
